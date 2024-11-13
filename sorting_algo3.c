@@ -35,6 +35,4 @@ int main() {
     printArray(arr, size);
     return 0;
 }
-//sorting algo1
-//sorting algo2
-//sorting algo3
+//sorting algo1 first commit
